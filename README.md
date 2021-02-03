@@ -1,0 +1,2 @@
+# Netcore
+repositorio lucas
